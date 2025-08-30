@@ -36,7 +36,7 @@ Useful for anyone designing circuits with the AT24CM01 in **SOIC-8** or **TSSOP-
 ---
 
 ## 📜 License
-This library is released under the **CERN Open Hardware License v2**.  
+This library is released under the **NO-LICENSE**.  
 You are free to use, modify, and distribute it under the same terms.
 
 ---
