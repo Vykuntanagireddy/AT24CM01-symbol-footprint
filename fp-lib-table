@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "AT24CM01 foot print")(type "KiCad")(uri "${KIPRJMOD}/AT24CM01 foot print.pretty")(options "")(descr ""))
+)
